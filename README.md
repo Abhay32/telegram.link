@@ -4,7 +4,7 @@
 [![Sauce Test Status][sauce-image]][sauce-url]
 
 
-**ALPHA SOFTWARE**
+**ALPHA SOFTWARES**
 
 ###_telegram.link_ is a Telegram API library for
 
